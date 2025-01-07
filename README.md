@@ -16,4 +16,4 @@ Always obtain proper consent before using these scripts.
 Scripts des incoming
 
 #  Credits
-github.com/voiscko
+https://github.com/voiscko
