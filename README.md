@@ -13,7 +13,7 @@ Always obtain proper consent before using these scripts.
 
 #  Script Descriptions
 
-Scripts des incoming
+Scripts desc incoming after finishing all modules
 
 #  Credits
 https://github.com/voiscko
